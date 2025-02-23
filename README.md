@@ -31,7 +31,7 @@ This is a simple **slot machine game** built with **Node.js**. Players deposit m
 
 1. **Run the game:**
    ```bash
-   node slot.js
+   node main.js
    ```
 2. **Follow the prompts to:**
    - Deposit money
