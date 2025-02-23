@@ -1,0 +1,22 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "JavaScript in a project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whdev36/javascript-project.git"
+  },
+  "author": "whdev36",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whdev36/javascript-project/issues"
+  },
+  "homepage": "https://github.com/whdev36/javascript-project#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
